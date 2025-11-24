@@ -20,6 +20,12 @@ jupyter notebook
 compare_SY_transport.ipynb 실행
 ```
 
+4. 커널 초기화
+
+```
+pkill -f ipykernel
+```
+
 ---
 
 ## Installation (macOS)
